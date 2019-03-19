@@ -77,7 +77,7 @@
     </style>
 </head>
 <body>
-	<p>NIM  : 16.01.53.0132</p>
+	<p>NIM  : 16.01.53.0136</p>
     <p>Nama : Nabilla Alya Ramadhanni</p>
     
     <hr>
